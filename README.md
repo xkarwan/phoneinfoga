@@ -73,3 +73,4 @@ This tool is licensed under the GNU General Public License v3.0.
 <div align="center">
   <img src="https://github.com/sundowndev/static/raw/main/sponsors.svg?v=c68eba9" width="100%" heigh="auto" />
 </div>
+
